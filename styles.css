@@ -1,0 +1,48 @@
+
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+
+
+/* Hero banner */
+.hero-banner {
+    position: relative;
+    text-align: center;
+    background: #eee;
+    padding: 1rem;
+}
+
+/* Intro Section */
+.intro {
+    padding: 1/5rem;
+    margin: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+
+/* Info Section
+*/.info{
+    padding: 1/5rem;
+    margin: 1rem;
+    border: 1px solid#ccc;
+    border-radius: 6px;
+}
+
+/* Footer section */
+.park-footer {
+    padding: 1.5rem;
+    margin: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+
+
+
